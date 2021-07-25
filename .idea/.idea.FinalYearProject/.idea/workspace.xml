@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ad8a68d-9054-4dc5-8892-69784b2402d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creature/CreatureController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creature/Plant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creature/CreatureStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/TerrainEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creature/PredatorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Terrain/TerrainGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Creature/Species.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/IBheaviourAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Creature.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Terrain/Noise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/TerrainEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Consumable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager Scripts/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Predator.cs" />
+        <option value="$PROJECT_DIR$/Assets/CreatureData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Animal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/ICreatureEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/BTNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/BTSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/MoveToTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/BTSequence.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/Search.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/Flee.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/Consume.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/IBehaviourAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/AIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/CreatureAgent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Terrain/Heightmap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Terrain/NoiseSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviour Tree/Wander.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviourTree/BTSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviourTree/BTNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviourTree/BTActionNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/LivingEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityNEAT/Assets/SharpNEAT/Phenomes/IBlackBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager Scripts/CreatureDataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityNEAT/Assets/CarExperiment/SimpleEvaluator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviourTree/BTSequence.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviourTree/CreatureBehaviourTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/VisionEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviourTree/PredatorBehaviourTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/CreatureStates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Genes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/GeneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Plant.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityNEAT/Assets/SharpNEAT/Optimizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/CreatureController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/PredatorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager Scripts/GeneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Creature/Vision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Terrain/TerrainGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/UnityNEAT-master/UnityNEAT/Assets/SharpNEAT/Optimizer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qa3A2z9lfKP73Hjra0W6QpgnXV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ForestBuild\FinalYearProject.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="F:\Uni Work\FinalYearProject\ForestBuild" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ad8a68d-9054-4dc5-8892-69784b2402d5" name="Default Changelist" comment="" />
+      <created>1617303727474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617303727474</updated>
+      <workItem from="1617303729744" duration="4663000" />
+      <workItem from="1617310423533" duration="240000" />
+      <workItem from="1617388167431" duration="2097000" />
+      <workItem from="1617560593883" duration="8774000" />
+      <workItem from="1617649321643" duration="3327000" />
+      <workItem from="1618332458132" duration="6621000" />
+      <workItem from="1618429157807" duration="6889000" />
+      <workItem from="1618511388192" duration="1702000" />
+      <workItem from="1618513341142" duration="13125000" />
+      <workItem from="1618595409643" duration="15331000" />
+      <workItem from="1619129006592" duration="2702000" />
+      <workItem from="1619191984623" duration="15150000" />
+      <workItem from="1619226768965" duration="212000" />
+      <workItem from="1619284586527" duration="12612000" />
+      <workItem from="1619545652155" duration="10223000" />
+      <workItem from="1619635897494" duration="3775000" />
+      <workItem from="1619716669748" duration="13746000" />
+      <workItem from="1619888455076" duration="13748000" />
+      <workItem from="1619973513875" duration="17258000" />
+      <workItem from="1620005588910" duration="9147000" />
+      <workItem from="1620043592238" duration="31473000" />
+      <workItem from="1620093961922" duration="746000" />
+      <workItem from="1620095086428" duration="4110000" />
+      <workItem from="1620128629555" duration="27000" />
+      <workItem from="1620162616124" duration="3029000" />
+      <workItem from="1620169885761" duration="132000" />
+      <workItem from="1620170685890" duration="1459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1114" y="401" key="RiderGenerateDialog" timestamp="1619977260329">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="401" key="RiderGenerateDialog/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1619977260329" />
+    <state x="570" y="0" width="1609" height="998" key="dock-window-1" timestamp="1620047521512">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="570" y="0" width="1609" height="998" key="dock-window-1/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620047521512" />
+    <state x="-2616" y="-20" width="1936" height="1128" maximized="true" key="dock-window-1/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1619985423842" />
+    <state x="-1920" y="0" width="1936" height="1128" key="dock-window-2" timestamp="1620049084429">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="0" width="1615" height="998" key="dock-window-2/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620043990174" />
+    <state x="-1920" y="0" width="1936" height="1128" key="dock-window-2/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1620049084429" />
+    <state x="-1920" y="0" width="1936" height="1128" key="dock-window-3" timestamp="1620053772813">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="184" width="1452" height="838" key="dock-window-3/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1618618051966" />
+    <state x="-1920" y="0" width="1936" height="1128" key="dock-window-3/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1620053772813" />
+    <state x="149" y="0" width="1609" height="998" maximized="true" key="dock-window-4" timestamp="1620061877730">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="149" y="0" width="1609" height="998" maximized="true" key="dock-window-4/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620061877730" />
+    <state x="379" y="206" width="1609" height="998" key="dock-window-5" timestamp="1620064979894">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="379" y="206" width="1609" height="998" key="dock-window-5/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620064979894" />
+    <state x="265" y="0" width="1609" height="998" key="dock-window-6" timestamp="1620064638831">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="265" y="0" width="1609" height="998" key="dock-window-6/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620064638831" />
+    <state x="110" y="0" width="1609" height="1028" key="dock-window-7" timestamp="1620076536924">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="110" y="0" width="1609" height="1028" key="dock-window-7/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620076536924" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1619285075977">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1619285075977" />
+    <state x="-1213" y="234" width="672" height="504" key="search.everywhere.popup" timestamp="1620010174444">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1213" y="234" width="672" height="504" key="search.everywhere.popup/0.0.2560.1400/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1620010174444" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1619734062412" />
+  </component>
+</project>

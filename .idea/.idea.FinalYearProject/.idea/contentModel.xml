@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dakin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dakin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FinalYearProject.1335501469.00" t="ExcludeRecursive" />
+    <e p="F:\Uni Work\FinalYearProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Creature" t="Include">
+            <e p="CreatureController.cs" t="Include" />
+            <e p="CreatureStates.cs" t="Include" />
+            <e p="Plant.cs" t="Include" />
+            <e p="PredatorController.cs" t="Include" />
+            <e p="Species.cs" t="Include" />
+            <e p="Vision.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="TerrainEditor.cs" t="Include" />
+          </e>
+          <e p="Manager Scripts" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="GeneController.cs" t="Include" />
+          </e>
+          <e p="Terrain" t="Include">
+            <e p="Heightmap.cs" t="Include" />
+            <e p="TerrainGeneration.cs" t="Include" />
+          </e>
+        </e>
+        <e p="UnityNEAT-master" t="Include">
+          <e p="UnityNEAT" t="Include">
+            <e p="Assets" t="Include">
+              <e p="BallExperiment" t="Include">
+                <e p="BallController.cs" t="Include" />
+              </e>
+              <e p="CarExperiment" t="Include">
+                <e p="CarController.cs" t="Include" />
+                <e p="GoalPiece.cs" t="Include" />
+                <e p="RoadPiece.cs" t="Include" />
+                <e p="SimpleEvaluator.cs" t="Include" />
+                <e p="SimpleExperiment.cs" t="Include" />
+              </e>
+              <e p="Resources" t="Include">
+                <e p="experiment.config.xml" t="Include" />
+              </e>
+              <e p="SharpNEAT" t="Include">
+                <e p="Core" t="Include">
+                  <e p="AuxFitnessInfo.cs" t="Include" />
+                  <e p="CoordinateVector.cs" t="Include" />
+                  <e p="EvaluationInfo.cs" t="Include" />
+                  <e p="FitnessInfo.cs" t="Include" />
+                  <e p="GenomeFitnessComparer.cs" t="Include" />
+                  <e p="IDistanceMetric.cs" t="Include" />
+                  <e p="IEvolutionAlgorithm.cs" t="Include" />
+                  <e p="IGenome.cs" t="Include" />
+                  <e p="IGenomeDecoder.cs" t="Include" />
+                  <e p="IGenomeFactory.cs" t="Include" />
+                  <e p="IGenomeListEvaluator.cs" t="Include" />
+                  <e p="IPhenomeEvaluator.cs" t="Include" />
+                  <e p="ISpeciationStrategy.cs" t="Include" />
+                  <e p="RunState.cs" t="Include" />
+                  <e p="SelectiveGenomeListEvaluator.cs" t="Include" />
+                  <e p="SerialGenomeListEvaluator.cs" t="Include" />
+                  <e p="Specie.cs" t="Include" />
+                  <e p="UnityListEvaluator.cs" t="Include" />
+                  <e p="UnityParallelListEvaluator.cs" t="Include" />
+                  <e p="UpdateMode.cs" t="Include" />
+                  <e p="UpdateScheme.cs" t="Include" />
+                </e>
+                <e p="Coroutiner.cs" t="Include" />
+                <e p="Decoders" t="Include">
+                  <e p="CyclicNetworkFactory.cs" t="Include" />
+                  <e p="FastAcyclicNetworkFactory.cs" t="Include" />
+                  <e p="FastCyclicNetworkFactory.cs" t="Include" />
+                  <e p="HyperNeat" t="Include">
+                    <e p="DefaultNodeSetMappingFunction.cs" t="Include" />
+                    <e p="HyperNeatDecoder.cs" t="Include" />
+                    <e p="INodeSetMappingFunction.cs" t="Include" />
+                    <e p="NodeSetMapping.cs" t="Include" />
+                    <e p="Substrate.cs" t="Include" />
+                    <e p="SubstrateConnection.cs" t="Include" />
+                    <e p="SubstrateNode.cs" t="Include" />
+                    <e p="SubstrateNodeSet.cs" t="Include" />
+                  </e>
+                  <e p="Neat" t="Include">
+                    <e p="NeatGenomeDecoder.cs" t="Include" />
+                  </e>
+                  <e p="NetworkActivationScheme.cs" t="Include" />
+                </e>
+                <e p="DistanceMetrics" t="Include">
+                  <e p="DistanceMetricUtils.cs" t="Include" />
+                  <e p="EuclideanDistanceMetric.cs" t="Include" />
+                  <e p="ManhattanDistanceMetric.cs" t="Include" />
+                </e>
+                <e p="EvolutionAlgorithms" t="Include">
+                  <e p="AbstractGenerationalAlgorithm.cs" t="Include" />
+                  <e p="ComplexityRegulation" t="Include">
+                    <e p="ComplexityCeilingType.cs" t="Include" />
+                    <e p="ComplexityRegulationMode.cs" t="Include" />
+                    <e p="DefaultComplexityRegulationStrategy.cs" t="Include" />
+                    <e p="IComplexityRegulationStrategy.cs" t="Include" />
+                    <e p="NullComplexityRegulationStrategy.cs" t="Include" />
+                  </e>
+                  <e p="NeatAlgorithmStats.cs" t="Include" />
+                  <e p="NeatEvolutionAlgorithm.cs" t="Include" />
+                  <e p="NeatEvolutionAlgorithmParameters.cs" t="Include" />
+                </e>
+                <e p="Genomes" t="Include">
+                  <e p="HyperNeat" t="Include">
+                    <e p="CppnGenomeFactory.cs" t="Include" />
+                  </e>
+                  <e p="Neat" t="Include">
+                    <e p="AddedNeuronGeneStruct.cs" t="Include" />
+                    <e p="ConnectionGene.cs" t="Include" />
+                    <e p="ConnectionGeneComparer.cs" t="Include" />
+                    <e p="ConnectionGeneList.cs" t="Include" />
+                    <e p="ConnectionGeneListBuilder.cs" t="Include" />
+                    <e p="ConnectionMutationInfo.cs" t="Include" />
+                    <e p="ConnectionMutationInfoList.cs" t="Include" />
+                    <e p="ConnectionPerturbanceType.cs" t="Include" />
+                    <e p="ConnectionSelectionType.cs" t="Include" />
+                    <e p="CorrelationItem.cs" t="Include" />
+                    <e p="CorrelationItemType.cs" t="Include" />
+                    <e p="CorrelationResults.cs" t="Include" />
+                    <e p="CorrelationStatistics.cs" t="Include" />
+                    <e p="NeatGenome.cs" t="Include" />
+                    <e p="NeatGenomeFactory.cs" t="Include" />
+                    <e p="NeatGenomeParameters.cs" t="Include" />
+                    <e p="NeatGenomeStats.cs" t="Include" />
+                    <e p="NeatGenomeXmlIO.cs" t="Include" />
+                    <e p="NeuronGene.cs" t="Include" />
+                    <e p="NeuronGeneList.cs" t="Include" />
+                  </e>
+                  <e p="RbfNeat" t="Include">
+                    <e p="RbfGenomeFactory.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Network" t="Include">
+                  <e p="ActivationFunctions" t="Include">
+                    <e p="ActivationFunctionInfo.cs" t="Include" />
+                    <e p="Bipolar" t="Include">
+                      <e p="BipolarGaussian.cs" t="Include" />
+                      <e p="BipolarSigmoid.cs" t="Include" />
+                      <e p="Linear.cs" t="Include" />
+                      <e p="Sine.cs" t="Include" />
+                    </e>
+                    <e p="NullFn.cs" t="Include" />
+                    <e p="RadialBasis" t="Include">
+                      <e p="RbfGaussian.cs" t="Include" />
+                    </e>
+                    <e p="Unipolar" t="Include">
+                      <e p="Absolute.cs" t="Include" />
+                      <e p="AbsoluteRoot.cs" t="Include" />
+                      <e p="Gaussian.cs" t="Include" />
+                      <e p="InverseAbsoluteSigmoid.cs" t="Include" />
+                      <e p="PlainSigmoid.cs" t="Include" />
+                      <e p="ReducedSigmoid.cs" t="Include" />
+                      <e p="SteepenedSigmoid.cs" t="Include" />
+                      <e p="SteepenedSigmoidApproximation.cs" t="Include" />
+                      <e p="StepFunction.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="AcyclicNetworkDepthAnalysis.cs" t="Include" />
+                  <e p="ConnectionEndpointsStruct.cs" t="Include" />
+                  <e p="ConnectionList.cs" t="Include" />
+                  <e p="CyclicNetworkDepthAnalysis.cs" t="Include" />
+                  <e p="CyclicNetworkTest.cs" t="Include" />
+                  <e p="DefaultActivationFunctionLibrary.cs" t="Include" />
+                  <e p="Domains" t="Include">
+                    <e p="ExperimentUtils.cs" t="Include" />
+                    <e p="INeatExperiment.cs" t="Include" />
+                    <e p="IntPoint.cs" t="Include" />
+                    <e p="PolarPoint.cs" t="Include" />
+                    <e p="XmlUtils.cs" t="Include" />
+                  </e>
+                  <e p="IActivationFunction.cs" t="Include" />
+                  <e p="IActivationFunctionLibrary.cs" t="Include" />
+                  <e p="IConnectionList.cs" t="Include" />
+                  <e p="INetworkConnection.cs" t="Include" />
+                  <e p="INetworkDefinition.cs" t="Include" />
+                  <e p="INetworkNode.cs" t="Include" />
+                  <e p="INodeList.cs" t="Include" />
+                  <e p="NetworkConnection.cs" t="Include" />
+                  <e p="NetworkConnectivityData.cs" t="Include" />
+                  <e p="NetworkDefinition.cs" t="Include" />
+                  <e p="NetworkDepthInfo.cs" t="Include" />
+                  <e p="NetworkNode.cs" t="Include" />
+                  <e p="NetworkXmlIO.cs" t="Include" />
+                  <e p="NodeConnectivityData.cs" t="Include" />
+                  <e p="NodeList.cs" t="Include" />
+                  <e p="NodeType.cs" t="Include" />
+                </e>
+                <e p="Optimizer.cs" t="Include" />
+                <e p="Phenomes" t="Include">
+                  <e p="IBlackBox.cs" t="Include" />
+                  <e p="ISignalArray.cs" t="Include" />
+                  <e p="MappingSignalArray.cs" t="Include" />
+                  <e p="NeuralNets" t="Include">
+                    <e p="AcyclicNetwork" t="Include">
+                      <e p="FastAcyclicNetwork.cs" t="Include" />
+                      <e p="LayerInfo.cs" t="Include" />
+                    </e>
+                    <e p="CyclicNetwork" t="Include">
+                      <e p="Connection.cs" t="Include" />
+                      <e p="CyclicNetwork.cs" t="Include" />
+                      <e p="Neuron.cs" t="Include" />
+                      <e p="RelaxingCyclicNetwork.cs" t="Include" />
+                    </e>
+                    <e p="FastCyclicNetwork" t="Include">
+                      <e p="FastConnection.cs" t="Include" />
+                      <e p="FastCyclicNetwork.cs" t="Include" />
+                      <e p="FastRelaxingCyclicNetwork.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="SignalArray.cs" t="Include" />
+                </e>
+                <e p="Properties" t="Include">
+                  <e p="AssemblyInfo.cs" t="Include" />
+                </e>
+                <e p="SharpNeatException.cs" t="Include" />
+                <e p="SpeciationStrategies" t="Include">
+                  <e p="GenomeDistancePair.cs" t="Include" />
+                  <e p="KMeansClusteringStrategy.cs" t="Include" />
+                  <e p="RandomClusteringStrategy.cs" t="Include" />
+                  <e p="SpeciationUtils.cs" t="Include" />
+                </e>
+                <e p="UnitController.cs" t="Include" />
+                <e p="Utility" t="Include">
+                  <e p="BoxMullerGaussianSampler.cs" t="Include" />
+                  <e p="CircularBuffer.cs" t="Include" />
+                  <e p="DoubleCircularBufferWithStats.cs" t="Include" />
+                  <e p="FastRandom.cs" t="Include" />
+                  <e p="FrequencyDistributionData.cs" t="Include" />
+                  <e p="KeyedCircularBuffer.cs" t="Include" />
+                  <e p="Point2DDouble.cs" t="Include" />
+                  <e p="RouletteWheel.cs" t="Include" />
+                  <e p="RouletteWheelLayout.cs" t="Include" />
+                  <e p="UInt32IdGenerator.cs" t="Include" />
+                  <e p="Utilities.cs" t="Include" />
+                  <e p="XmlIoUtils.cs" t="Include" />
+                  <e p="ZigguratGaussianSampler.cs" t="Include" />
+                </e>
+                <e p="Utility.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="FinalYearProject.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

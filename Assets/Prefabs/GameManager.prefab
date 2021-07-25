@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3519362940981028291
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3519362940981028294}
+  - component: {fileID: 3519362940981028293}
+  - component: {fileID: 3519362940981028292}
+  - component: {fileID: -5294744904934303366}
+  - component: {fileID: 7722528843342191962}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3519362940981028294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3519362940981028291}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3519362940981028293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3519362940981028291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f729aae0195d840b3b4c49273355d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  predatorPrefab: {fileID: 0}
+  predatorCount: 0
+  plant: {fileID: 0}
+  foodCount: 0
+  timeOfDay: 0
+  timeInDay: 100
+  generationCount: 0
+--- !u!114 &3519362940981028292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3519362940981028291}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c71b15611a2e44e9637dafa7336bf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  generateTrees: 0
+  treePrefab: {fileID: 9005997009949590870, guid: b0ffb2801f055ad47b7772ee84a8cb5b,
+    type: 3}
+  numberOfTrees: 0
+  treeParent: {fileID: 0}
+  meshFilter: {fileID: 0}
+  meshRenderer: {fileID: 0}
+  meshCollider: {fileID: 0}
+  terrainSettings:
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lacunarity: 0
+    levelOfDetail: 0
+    mapHeight: 0
+    octaves: 8
+    offset: {x: 0, y: 0}
+    persistance: 0.15
+    scale: 1
+    seed: 0
+  biomes:
+  - biomeName: Grass
+    height: 1
+    biomeColour: {r: 0.13207841, g: 1, b: 0, a: 1}
+    canSpawnFood: 1
+--- !u!114 &-5294744904934303366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3519362940981028291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c7b273341bd9f941a9d6d2cb7bea5f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  predatorGenePool:
+    speed: 1
+    height: 1
+    mass: 1
+    fleeWeight: 50
+    hungerWeight: 50
+    metabolicRate: 0
+    visionRange: 50
+    maxEnergy: 0
+  preyGenePool:
+    speed: 1
+    height: 1
+    mass: 1
+    fleeWeight: 50
+    hungerWeight: 50
+    metabolicRate: 0
+    visionRange: 50
+    maxEnergy: 0
+--- !u!114 &7722528843342191962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3519362940981028291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b24a5348a7fbc40951edfd1c5e796d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Trials: 1
+  TrialDuration: 5000
+  StoppingFitness: 10
+  Unit: {fileID: 252902918696061882, guid: a5bb47320e9b3a64eaa0c1f387b96784, type: 3}
