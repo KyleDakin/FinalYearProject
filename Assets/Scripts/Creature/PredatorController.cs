@@ -8,12 +8,13 @@ namespace Creature
 {
     public class PredatorController : MonoBehaviour
     {
+        public CreatureStates _currentState;
+
         //Private variables
         private Vision _vision;
         private NavMeshAgent _agent;
         private Genes _myGenes;
         private Vector3 _wanderTarget = Vector3.negativeInfinity;
-        public CreatureStates _currentState;
         private GameObject food;
         
 

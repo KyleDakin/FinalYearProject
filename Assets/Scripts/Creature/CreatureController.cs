@@ -41,6 +41,7 @@ namespace Creature
         {
             if (_isRunning)
             {
+                //Initialise UnityNEAT Input and Output Arrays
                 ISignalArray inputArray = _box.InputSignalArray;
                 inputArray[0] = _myGenes.fleeWeight;
                 inputArray[1] = _myGenes.hungerWeight;
